@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Patient-Details/static/css/main.0277ae47.css",
+    "main.js": "/Patient-Details/static/js/main.3f7bce25.js",
+    "index.html": "/Patient-Details/index.html",
+    "main.0277ae47.css.map": "/Patient-Details/static/css/main.0277ae47.css.map",
+    "main.3f7bce25.js.map": "/Patient-Details/static/js/main.3f7bce25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0277ae47.css",
+    "static/js/main.3f7bce25.js"
+  ]
+}
